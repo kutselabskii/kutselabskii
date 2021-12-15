@@ -7,5 +7,5 @@
 
 - Currently working at [Game Forest](https://game-forest.com/) :evergreen_tree:.
 - Interested in game development, robotics, automation and machine learning (a bit).
-- Trying to make a meaningful work-unrelated commit every day.
+- Trying to learn something new every day!
 - Contact me if you need any help or just want to chat! :heart_eyes:
